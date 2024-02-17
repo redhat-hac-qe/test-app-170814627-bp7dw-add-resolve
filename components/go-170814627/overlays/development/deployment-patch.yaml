@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/hacdev/4iwibfhb-tenant/test-app-170814627/go-170814627@sha256:bfd9c9ce6862691c3a4aa65c8197b2399740ec3fade6cfc788b45faf78da3d4b
+      - image: quay.io/hacdev/4iwibfhb-tenant/test-app-170814627/go-170814627@sha256:d08e5d52bb1977f4c386989e6193609bb5c2a19ee33577fdfd83550ba1307bd3
         name: my-go
         resources: {}
 status: {}
